@@ -1,4 +1,4 @@
-(中文)[./README.md] | (Enlish)[./README_EN.md]
+[English](./README-EN.md)|[简体中文](./README.md)
 # ZYJ2
 ## 什么是ZYJ2？
 ### 是一个Minecraft数据包，主要适用于1.21.4
