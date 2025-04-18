@@ -1,4 +1,4 @@
-[English] (./README-EN.md)| [简体中文] (./README.md)
+[English](./README-EN.md)|[简体中文](./README.md)
 # ZYJ2
 ## What is ZYJ2?
 ### is a Minecraft package that works primarily with 1.21.4
